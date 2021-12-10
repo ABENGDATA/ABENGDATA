@@ -1,7 +1,6 @@
 ### Hi there 👋
-<p align="right" width="100%">
-    <img width="45%" src="welcome.jpg">
-</p>
+<img align="right" width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+If you'd like to set the text itself to left, center, or right, you can include the text inside the <p> element as well, as regular HTML, like this:
 
 <!--
 **ABENGDATA/ABENGDATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
