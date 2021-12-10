@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi <p align="right" width="100%">
+I should also point out that although that solution does indeed work, it is causing a lot of confusion for that answer to claim to use inline css to solve the problem, since, like @Poikilos points out in the comments, that answer has no CSS in it whatsoever. Rather, the align="center" part of the <p> element is a deprecated HTML attribute (that happens to still function) and is NOT CSS. All CSS, whether external, internal, or inline is banned from GitHub readmes and explicitly removed, as indicated through trial-and-error and in the two references abov <p align="right" width="100%">
     <img width="45%" src="welcome.jpg">
 </p>
 <!--
