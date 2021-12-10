@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+<img align="right" width="33%" src="welcome.jpg">
 If you'd like to set the text itself to left, center, or right, you can include the text inside the <p> element as well, as regular HTML, like this:
 
 <!--
