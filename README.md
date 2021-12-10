@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="right" width="100%">
-    <img width="60%" src="welcome.jpg">
+    <img width="45%" src="welcome.jpg">
 </p>
 <!--
 **ABENGDATA/ABENGDATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
