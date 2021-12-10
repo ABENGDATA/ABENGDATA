@@ -1,6 +1,6 @@
 ### Hi there 👋
 **Align left:**
-<p align="left" width="100%">
+<p align="right" width="100%">
     <img width="33%" src="welcome.jpg">
 </p>
 <!--
