@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](underconstruction.jpg)
+![](welcome.jpg)
 <!--
 **ABENGDATA/ABENGDATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
