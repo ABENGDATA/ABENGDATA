@@ -11,7 +11,7 @@
 <br />
 <br />
 <br />
-
+---
 <img align="left" width="45%" src="welcome2.jpg">
 🔥 In terms of content this portfolio will be in constant update and you can find my projects , reviews and current activities .
 🔥 The main tools that I'm gonna cover in a short term period will be ```Python```,```Microsoft Excel``` , ```SQL [DB2,MYSQL,POSTGRESQL]``` ,```matlab``` and ```Power Bi``` . 
