@@ -3,6 +3,9 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ABENGDATA&style=flat&labelColor=blue&logo=github&label=PROFILE+VIEWS&color=971901"/>
 <img align="right" width="45%" src="welcome.jpg">
 
+
+
+
 🏅 🇨🇴 I'm a data enthusiast with a lot of experience in numerical analysis due to my academic career as chemical engineer .
 
 
@@ -11,10 +14,18 @@
 
 
 
+
+
 <img align="left" width="45%" src="welcome2.jpg">
 
+
 🔥 In terms of content this portfolio will be in constant update and you can find my projects , reviews and current activities .
+
+
 🔥 The main tools that I'm gonna cover in a short term period will be ```Python```,```Microsoft Excel``` , ```SQL [DB2,MYSQL,POSTGRESQL]``` ,```matlab``` and ```Power Bi``` . 
+
+
+
 
 
 ### Contact 
