@@ -12,7 +12,9 @@
 ### Statistics
 [![stats](https://github-readme-stats.vercel.app/api?username=ABENGDATA&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/ABENGDATA)
 
-
+### Contact 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chemjs/)
+![Gmail](https://img.shields.io/badge/juansw250@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <!--
 **ABENGDATA/ABENGDATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
