@@ -17,7 +17,6 @@
 🔥 The main tools that I'm gonna cover in a short term period will be 
 <br />
 <br />
-<br />
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,8 +28,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 
 
@@ -38,6 +36,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chemjs/)
 ![Gmail](https://img.shields.io/badge/juansw250@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+###  Weekly  Data Banner  (Spanish Only) 👇
 
-### View My Repositories 👇
+### Now you are free to explore my projects 👇
 
