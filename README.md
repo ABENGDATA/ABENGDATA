@@ -9,11 +9,16 @@
 ⚡🔥 My Goal is to simplify the life of the people  through tha analysis of their information , this information are 
  data that can be used in many ways with the purpose of describe , prescribe , modelate and predict events related to a specific topic .
 
-<img align="left" width="45%" src="welcome2.jpg">
+
 
 
 🔥 In terms of content this portfolio will be in constant update and you can find my projects , reviews and current activities .
 🔥 The main tools that I'm gonna cover in a short term period will be ```Python```,```Microsoft Excel``` , ```SQL [DB2,MYSQL,POSTGRESQL]``` ,```matlab``` and ```Power Bi``` . 
+
+<img align="left" width="45%" src="welcome2.jpg">
+
+
+
 
 
 
