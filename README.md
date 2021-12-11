@@ -10,7 +10,7 @@
  data that can be used in many ways with the purpose of describe , prescribe , modelate and predict events related to a specific topic .
 
 ### Statistics
-[![stats](https://github-readme-stats.vercel.app/api?username=ndleah&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/ABENGDATA)
+[![stats](https://github-readme-stats.vercel.app/api?username=ABENGDATA&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/ABENGDATA)
 
 
 <!--
