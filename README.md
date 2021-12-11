@@ -7,24 +7,18 @@
 ⚡🔥 My Goal is to simplify the life of the people  through tha analysis of their information , this information are 
  data that can be used in many ways with the purpose of describe , prescribe , modelate and predict events related to a specific topic .
 
-\t
+
+<br />
+<br />
+<br />
 <img align="left" width="45%" src="welcome2.jpg">
 🔥 In terms of content this portfolio will be in constant update and you can find my projects , reviews and current activities .
 🔥 The main tools that I'm gonna cover in a short term period will be ```Python```,```Microsoft Excel``` , ```SQL [DB2,MYSQL,POSTGRESQL]``` ,```matlab``` and ```Power Bi``` . 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### Contact 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chemjs/)
