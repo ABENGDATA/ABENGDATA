@@ -1,6 +1,7 @@
 ### Welcome to my Portfolio  👋
 <img align="right" width="45%" src="welcome.jpg">
-I'm a data enthusiast with a lot of experience in numerical analysis due to my academic career as chemical engineer 🎯  
+I'm a data enthusiast with a lot of experience in numerical analysis due to my academic career as chemical engineer 🎯
+
 I was looking for new challenges in the field of data science and data analysis for that reason during pandemic I took the
 decision to do a transition to this and here I am , Hope you will find this Portfolio useful anf inspiring .
 
