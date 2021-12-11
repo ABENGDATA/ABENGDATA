@@ -1,12 +1,10 @@
-### Welcome to my Portfolio  👋
+### Welcome to my Portfolio 
 <img align="right" width="45%" src="welcome.jpg">
-I'm a data enthusiast with a lot of experience in numerical analysis due to my academic career as chemical engineer 🎯
+🏅 🇨🇴 I'm a data enthusiast with a lot of experience in numerical analysis due to my academic career as chemical engineer .
 
-I was looking for new challenges in the field of data science and data analysis for that reason during pandemic I took the
-decision to do a transition to this and here I am , Hope you will find this Portfolio useful anf inspiring .
+⚡🔥 My Goal is to simplify the life of the people  through tha analysis of their information , this information are 
+ data that can be used in many ways with the purpose of describe , prescribe , modelate and predict events related to a specific topic .
 
-Who am I more specifically ?
-I'm Juan Sebastian Buitrago and live currently in Colombia , Chemical engineer and self-taught programmer .
 
 
 <!--
