@@ -9,8 +9,7 @@
 ⚡🔥 My Goal is to simplify the life of the people  through tha analysis of their information , this information are 
  data that can be used in many ways with the purpose of describe , prescribe , modelate and predict events related to a specific topic .
 
-### Statistics
-[![stats](https://github-readme-stats.vercel.app/api?username=ABENGDATA&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/ABENGDATA)
+<img align="left" width="45%" src="welcome2.jpg">
 
 ### Contact 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chemjs/)
