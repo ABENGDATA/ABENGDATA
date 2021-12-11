@@ -14,7 +14,16 @@
 
 <img align="left" width="45%" src="welcome2.jpg">
 🔥 In terms of content this portfolio will be in constant update and you can find my projects , reviews and current activities .
-🔥 The main tools that I'm gonna cover in a short term period will be ```Python``` , ```Microsoft Excel```  ,  ```SQL [DB2,MYSQL,POSTGRESQL]```  , ```matlab```  and ```Power Bi```  . 
+🔥 The main tools that I'm gonna cover in a short term period will be 
+<br />
+<br />
+<br />
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+![SQL](https://img.shields.io/badge/SQL-217346?style=for-the-badge&logo=microsoft-sql&logoColor=white) 
 
 <br />
 <br />
@@ -31,3 +40,4 @@
 
 
 ### View My Repositories 👇
+
