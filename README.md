@@ -39,7 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chemjs/)
 ![Gmail](https://img.shields.io/badge/juansw250@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-###  Weekly  Data Banner  (Spanish Only) 👇
+###  Data analysis recommend : most winner decks in clash royale for Tournaments (using python )  👇
 
-### Now you are free to explore my projects 👇
+### Now you are free to explore my projects 👇 just scrolling down 
 
