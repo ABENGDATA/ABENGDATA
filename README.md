@@ -41,6 +41,7 @@
 
 ###  Data analysis recommend : most winner decks in clash royale for Tournaments (using python )  👇
 **Deck # 1 : Hog 2.6**
+
 ![](https://www.deckshop.pro/img/c/Cannon.png)
 ![](https://www.deckshop.pro/img/c/Fireball.png)
 ![](https://www.deckshop.pro/img/c/Hog.png)
