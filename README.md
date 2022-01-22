@@ -40,6 +40,14 @@
 ![Gmail](https://img.shields.io/badge/juansw250@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ###  Data analysis recommend : most winner decks in clash royale for Tournaments (using python )  👇
-
+**Deck # 1 : Hog 2.6**
+![](https://www.deckshop.pro/img/c/Cannon.png)
+![](https://www.deckshop.pro/img/c/Fireball.png)
+![](https://www.deckshop.pro/img/c/Hog.png)
+![](https://www.deckshop.pro/img/c/IceGolem.png)
+![](https://www.deckshop.pro/img/c/IceSpirit.png)
+![](https://www.deckshop.pro/img/c/Musk.png)
+![](https://www.deckshop.pro/img/c/Log.png)
+![](https://www.deckshop.pro/img/c/Skellies.png)
 ### Now you are free to explore my projects 👇 just scrolling down 
 
