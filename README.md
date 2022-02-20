@@ -21,11 +21,12 @@
 <br />
 <br />
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-![SQL](https://img.shields.io/badge/SQL-217346?style=for-the-badge&logo=microsoft-sql&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-217346?style=for-the-badge&logo=microsoft-sql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-3670A0?style=for-the-badge&logo=Power_BI&logoColor=yellow)
 
 <br />
 <br />
