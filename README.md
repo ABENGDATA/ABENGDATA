@@ -41,4 +41,8 @@
 ![Gmail](https://img.shields.io/badge/juansw250@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### Now you are free to explore my projects 👇 just scrolling down 
+<img align="left" width="15%" src="1.jpg">
 
+<img align="left" width="15%" src="2.jpg">
+
+<img align="left" width="15%" src="3.jpg">
