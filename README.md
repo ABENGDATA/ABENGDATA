@@ -39,25 +39,8 @@
 
 ### Now you are free to explore my projects 👇 just scrolling down 
 
-<img align="left" width="15%" src="1.jpg">
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<img align="left" width="15%" src="2.jpg">
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<img align="left" width="15%" src="3.jpg">
-<br />
-<br />
-<br />
-<br />
-<br />
+[<img align="left" width="25%" src="1.jpg">](https://github.com/ABENGDATA/Serious_SQL_Course.git)
+[<img align="left" width="25%" src="2.jpg">](https://github.com/ABENGDATA/Python_Learning.git)
+[<img align="left" width="25%" src="3.jpg">](https://github.com/ABENGDATA/Dashboards-for-analytics.git)
+
 
