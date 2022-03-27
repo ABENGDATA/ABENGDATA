@@ -37,10 +37,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chemjs/)
 ![Gmail](https://img.shields.io/badge/juansw250@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-### Now you are free to explore my projects 👇 just scrolling down 
+### Now you are free to explore my projects 👇 just click on any of this images 
 
-[<img align="left" width="25%" src="1.jpg">](https://github.com/ABENGDATA/Serious_SQL_Course.git)
-[<img align="left" width="25%" src="2.jpg">](https://github.com/ABENGDATA/Python_Learning.git)
-[<img align="left" width="25%" src="3.jpg">](https://github.com/ABENGDATA/Dashboards-for-analytics.git)
+[<img align="left" width="27%" src="1.jpg">](https://github.com/ABENGDATA/Serious_SQL_Course.git)
+[<img align="left" width="27%" src="2.jpg">](https://github.com/ABENGDATA/Python_Learning.git)
+[<img align="left" width="27%" src="3.jpg">](https://github.com/ABENGDATA/Dashboards-for-analytics.git)
 
 
