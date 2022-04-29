@@ -5,7 +5,7 @@
 
 <br />
 
-🏅 🇨🇴 I'm a data enthusiast with a lot of experience in numerical analysis due to my academic career as chemical engineer .
+🏅I'm a data enthusiast with a lot of experience in numerical analysis due to my academic career as chemical engineer .
 
 ⚡🔥 My Goal is to simplify the life of the people  through tha analysis of their information , this information are 
  data that can be used in many ways with the purpose of describe , prescribe , modelate and predict events related to a specific topic .
